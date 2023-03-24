@@ -10,7 +10,7 @@
     Explore the power of Vue 2 and Cesium JS with this demo code.
     <br/>
     <br/>
-    <a https://vue-2-and-cesium-js-demo.vercel.app/">View Demo</a>
+    [View demo](https://vue-2-and-cesium-js-demo.vercel.app/)
   </p>
 </p>
 
