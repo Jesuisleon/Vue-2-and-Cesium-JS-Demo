@@ -1,7 +1,7 @@
 <br/>
 <p align="center">
   <a href="https://github.com/Jesuisleon/Vue-2-and-Cesium-JS-Demo">
-    <img src="https://images.prismic.io/cesium/d8282fb7-4939-4a71-a4e2-08005792e788_cesium-logo-globe.jpg?auto=compress,format&rect=0,9,1172,612&w=1200&h=627" alt="Logo" width="200" height="200">
+    <img src="https://images.prismic.io/cesium/d8282fb7-4939-4a71-a4e2-08005792e788_cesium-logo-globe.jpg?auto=compress,format&rect=0,9,1172,612&w=1200&h=627" alt="Logo" width="400" height="200">
   </a>
 
   <h3 align="center">VUE 2 / CESIUM.JS</h3>
