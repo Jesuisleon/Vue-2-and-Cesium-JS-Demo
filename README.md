@@ -10,10 +10,10 @@
     Explore the power of Vue 2 and Cesium JS with this demo code.
     <br/>
     <br/>
-    [View demo](https://vue-2-and-cesium-js-demo.vercel.app/)
   </p>
 </p>
 
+[View demo](https://vue-2-and-cesium-js-demo.vercel.app/)
 
 ## About The Project
 
