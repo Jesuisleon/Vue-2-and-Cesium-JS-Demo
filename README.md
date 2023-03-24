@@ -11,7 +11,6 @@
     <br/>
     <br/>
     <a https://vue-2-and-cesium-js-demo.vercel.app/">View Demo</a>
-    .
   </p>
 </p>
 
