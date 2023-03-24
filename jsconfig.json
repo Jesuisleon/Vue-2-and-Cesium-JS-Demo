@@ -9,6 +9,9 @@
         "src/*"
       ]
     },
+    "vueCompilerOptions": {
+      "target": "2.7"
+    },
     "lib": [
       "esnext",
       "dom",
